@@ -1,6 +1,6 @@
 pkgbase = yuml
 	pkgdesc = An unofficial command line client for the yUML web app
-	pkgver = r39.a1a1270
+	pkgver = r46.62d6bb3
 	pkgrel = 1
 	url = https://github.com/wandernauta/yuml
 	arch = any
@@ -13,4 +13,3 @@ pkgbase = yuml
 	md5sums = SKIP
 
 pkgname = yuml
-
